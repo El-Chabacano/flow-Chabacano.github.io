@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+
+.body{
+	background-color: grey;
+	width: 30%;
+	float: left;
+	margin:1.5%;
+	height: 360px;
+}
+.banner{
+	background-color: grey;
+	width: 100%;
+	
+	margin-top: 1%;
+	height: 100px;
+}
+.galeria{
+	
+	background-color: grey;
+	width: 100%;
+	
+	margin-top: 1%;
+	height: 140px;
+}
+
+.enca{
+	background-color: grey;
+	height: 60px;
+	width: 100%;	
+}
+.cuadro{
+	height: 400px;
+	
+}
+
+.fin{
+	background-color: grey;
+	height: 40px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
